@@ -1,3 +1,3 @@
 Plik README.md:
-- kmijjiin nonon
-*hjkhlhhlhl l
+- kmijjiin nonon \n
+- jnonn
